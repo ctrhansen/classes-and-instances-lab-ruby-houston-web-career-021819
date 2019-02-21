@@ -1,3 +1,5 @@
+require
+
 class Dog
 end
 
