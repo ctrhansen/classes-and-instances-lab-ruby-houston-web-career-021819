@@ -1,4 +1,6 @@
 class Person
+  
+  people = [adele_goldberg, alan_kay] 
 
 end 
 
