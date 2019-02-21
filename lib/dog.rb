@@ -1,4 +1,6 @@
-class Dog 
+class Dog
+  
+  dogs = ["fido", "snoopy", "lassie"]
   
 end
 
