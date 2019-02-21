@@ -1,9 +1,7 @@
 class Dog
-  
-  dogs = ["fido", "snoopy", "lassie"]
-  
-end
-
-fido = Dog.new(“fido”)
+  fido = Dog.new(“fido”)
 snoopy = Dog.new(“snoopy”)
 lassie = Dog.new(“lassie”)
+  
+
+
