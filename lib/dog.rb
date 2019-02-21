@@ -1,4 +1,4 @@
-require
+require 'spec-helper'
 
 class Dog
 end
